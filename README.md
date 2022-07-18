@@ -1,4 +1,4 @@
-# vChat <img src="/public/images/artichoke.ico" height="50" width="50">
+# vChat <img src="/public/images/chat-logo.ico" height="50" width="50">
 
 A simple green themed web chat made to learn Node.js and Network Programming<br>
 
